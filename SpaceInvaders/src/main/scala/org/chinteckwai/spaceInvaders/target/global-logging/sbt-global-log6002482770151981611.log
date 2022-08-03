@@ -1,0 +1,308 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(run, Some(fd817fa5-79b8-4586-970a-2b98d1912690), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / run[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to C:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\target\scala-2.12\classes ...[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:2:8: not found: object scalafx[0m
+[0m[[0m[31merror[0m] [0m[0mimport scalafx.application.JFXApp[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:3:8: not found: object scalafx[0m
+[0m[[0m[31merror[0m] [0m[0mimport scalafx.application.JFXApp.PrimaryStage[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:4:8: not found: object scalafx[0m
+[0m[[0m[31merror[0m] [0m[0mimport scalafx.scene.{Scene, Cursor, ImageCursor}[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:5:8: not found: object scalafx[0m
+[0m[[0m[31merror[0m] [0m[0mimport scalafx.Includes._[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:6:8: not found: object scalafxml[0m
+[0m[[0m[31merror[0m] [0m[0mimport scalafxml.core.{NoDependencyResolver, FXMLView, FXMLLoader}[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:8:8: not found: object scalafx[0m
+[0m[[0m[31merror[0m] [0m[0mimport scalafx.scene.media.{Media, AudioClip}[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:10:8: not found: object scalafx[0m
+[0m[[0m[31merror[0m] [0m[0mimport scalafx.stage.{Stage, StageStyle, Modality}[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:11:38: object view is not a member of package org.chinteckwai.spaceInvaders[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.chinteckwai.spaceInvaders.view.{QuitDialogController, GameDialogController, GameController, GameOverDialogController, GameVictoryDialogController, GuideDialogController}[0m
+[0m[[0m[31merror[0m] [0m[0m                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:12:8: not found: object scalafx[0m
+[0m[[0m[31merror[0m] [0m[0mimport scalafx.scene.image.{Image, ImageView}[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:13:8: not found: object scalafx[0m
+[0m[[0m[31merror[0m] [0m[0mimport scalafx.event.ActionEvent[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:14:8: not found: object scalafx[0m
+[0m[[0m[31merror[0m] [0m[0mimport scalafx.application.Platform[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:15:38: object model is not a member of package org.chinteckwai.spaceInvaders[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.chinteckwai.spaceInvaders.model.Player[0m
+[0m[[0m[31merror[0m] [0m[0m                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:16:38: object util is not a member of package org.chinteckwai.spaceInvaders[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.chinteckwai.spaceInvaders.util.Database[0m
+[0m[[0m[31merror[0m] [0m[0m                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:19:24: not found: type JFXApp[0m
+[0m[[0m[31merror[0m] [0m[0mobject MainApp extends JFXApp {[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:22:5: not found: value Database[0m
+[0m[[0m[31merror[0m] [0m[0m    Database.setupDB()[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:25:5: not found: value Player[0m
+[0m[[0m[31merror[0m] [0m[0m    Player.playerData ++= Player.allPlayers[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:25:27: not found: value Player[0m
+[0m[[0m[31merror[0m] [0m[0m    Player.playerData ++= Player.allPlayers[0m
+[0m[[0m[31merror[0m] [0m[0m                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:31:22: not found: type FXMLLoader[0m
+[0m[[0m[31merror[0m] [0m[0m    val loader = new FXMLLoader(null, NoDependencyResolver)[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:31:39: not found: value NoDependencyResolver[0m
+[0m[[0m[31merror[0m] [0m[0m    val loader = new FXMLLoader(null, NoDependencyResolver)[0m
+[0m[[0m[31merror[0m] [0m[0m                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:40:31: not found: type AudioClip[0m
+[0m[[0m[31merror[0m] [0m[0m    val backgroundMusic = new AudioClip(getClass.getResource("/sound/backgroundmusic.mp3").toString())[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:43:24: not found: type Player[0m
+[0m[[0m[31merror[0m] [0m[0m    var currentPlayer: Player = new Player("",0,0)[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:43:37: not found: type Player[0m
+[0m[[0m[31merror[0m] [0m[0m    var currentPlayer: Player = new Player("",0,0)[0m
+[0m[[0m[31merror[0m] [0m[0m                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:52:5: not found: value stage[0m
+[0m[[0m[31merror[0m] [0m[0m    stage = new PrimaryStage {[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:79:31: not found: type AudioClip[0m
+[0m[[0m[31merror[0m] [0m[0m        val selectSound = new AudioClip(getClass.getResource("/sound/click.mp3").toString())[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:87:26: not found: type FXMLLoader[0m
+[0m[[0m[31merror[0m] [0m[0m        val loader = new FXMLLoader(null, NoDependencyResolver)[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:87:43: not found: value NoDependencyResolver[0m
+[0m[[0m[31merror[0m] [0m[0m        val loader = new FXMLLoader(null, NoDependencyResolver)[0m
+[0m[[0m[31merror[0m] [0m[0m                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:91:9: not found: value stage[0m
+[0m[[0m[31merror[0m] [0m[0m        stage.scene().cursor = Cursor.Default[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:106:26: not found: type FXMLLoader[0m
+[0m[[0m[31merror[0m] [0m[0m        val loader = new FXMLLoader(null, NoDependencyResolver)[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:106:43: not found: value NoDependencyResolver[0m
+[0m[[0m[31merror[0m] [0m[0m        val loader = new FXMLLoader(null, NoDependencyResolver)[0m
+[0m[[0m[31merror[0m] [0m[0m                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:109:53: not found: type GameDialogController[0m
+[0m[[0m[31merror[0m] [0m[0m        val gameIntroControl = loader.getController[GameDialogController#Controller][0m
+[0m[[0m[31merror[0m] [0m[0m                                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:111:35: not found: type Stage[0m
+[0m[[0m[31merror[0m] [0m[0m        val gameIntroDialog = new Stage() {[0m
+[0m[[0m[31merror[0m] [0m[0m                                  ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:112:13: not found: value initModality[0m
+[0m[[0m[31merror[0m] [0m[0m            initModality(Modality.ApplicationModal)[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:112:26: not found: value Modality[0m
+[0m[[0m[31merror[0m] [0m[0m            initModality(Modality.ApplicationModal)[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:113:13: not found: value initOwner[0m
+[0m[[0m[31merror[0m] [0m[0m            initOwner(stage)[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:113:23: not found: value stage[0m
+[0m[[0m[31merror[0m] [0m[0m            initOwner(stage)[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:114:13: not found: value title[0m
+[0m[[0m[31merror[0m] [0m[0m            title = "Start Game"[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:115:13: not found: value scene[0m
+[0m[[0m[31merror[0m] [0m[0m            scene = new Scene {[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:119:13: not found: value resizable[0m
+[0m[[0m[31merror[0m] [0m[0m            resizable = false[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:120:13: not found: value icons[0m
+[0m[[0m[31merror[0m] [0m[0m            icons += new Image(getClass.getResourceAsStream("/images/icon.jpg"))[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:120:26: not found: type Image[0m
+[0m[[0m[31merror[0m] [0m[0m            icons += new Image(getClass.getResourceAsStream("/images/icon.jpg"))[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:135:26: not found: type FXMLLoader[0m
+[0m[[0m[31merror[0m] [0m[0m        val loader = new FXMLLoader(null, NoDependencyResolver)[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:135:43: not found: value NoDependencyResolver[0m
+[0m[[0m[31merror[0m] [0m[0m        val loader = new FXMLLoader(null, NoDependencyResolver)[0m
+[0m[[0m[31merror[0m] [0m[0m                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:139:52: not found: type GameController[0m
+[0m[[0m[31merror[0m] [0m[0m        val gameplayControl = loader.getController[GameController#Controller][0m
+[0m[[0m[31merror[0m] [0m[0m                                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:145:31: not found: type Image[0m
+[0m[[0m[31merror[0m] [0m[0m        val shootCursor = new Image(getClass.getResourceAsStream("/images/scopeCursor.png"))[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:148:9: not found: value stage[0m
+[0m[[0m[31merror[0m] [0m[0m        stage.scene().cursor = new ImageCursor(shootCursor, shootCursor.width()/2, shootCursor.height()/2)[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:159:26: not found: type FXMLLoader[0m
+[0m[[0m[31merror[0m] [0m[0m        val loader = new FXMLLoader(null, NoDependencyResolver)[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:159:43: not found: value NoDependencyResolver[0m
+[0m[[0m[31merror[0m] [0m[0m        val loader = new FXMLLoader(null, NoDependencyResolver)[0m
+[0m[[0m[31merror[0m] [0m[0m                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:162:52: not found: type GameOverDialogController[0m
+[0m[[0m[31merror[0m] [0m[0m        val gameOverControl = loader.getController[GameOverDialogController#Controller][0m
+[0m[[0m[31merror[0m] [0m[0m                                                   ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:164:34: not found: type Stage[0m
+[0m[[0m[31merror[0m] [0m[0m        val gameOverDialog = new Stage() {[0m
+[0m[[0m[31merror[0m] [0m[0m                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:165:13: not found: value initModality[0m
+[0m[[0m[31merror[0m] [0m[0m            initModality(Modality.ApplicationModal)[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:165:26: not found: value Modality[0m
+[0m[[0m[31merror[0m] [0m[0m            initModality(Modality.ApplicationModal)[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:166:13: not found: value initOwner[0m
+[0m[[0m[31merror[0m] [0m[0m            initOwner(stage)[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:166:23: not found: value stage[0m
+[0m[[0m[31merror[0m] [0m[0m            initOwner(stage)[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:169:13: not found: value initStyle[0m
+[0m[[0m[31merror[0m] [0m[0m            initStyle(StageStyle.Undecorated)[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:169:23: not found: value StageStyle[0m
+[0m[[0m[31merror[0m] [0m[0m            initStyle(StageStyle.Undecorated)[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:170:13: not found: value title[0m
+[0m[[0m[31merror[0m] [0m[0m            title = "Game Over"[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:171:13: not found: value scene[0m
+[0m[[0m[31merror[0m] [0m[0m            scene = new Scene {[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:176:13: not found: value resizable[0m
+[0m[[0m[31merror[0m] [0m[0m            resizable = false[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:177:13: not found: value icons[0m
+[0m[[0m[31merror[0m] [0m[0m            icons += new Image(getClass.getResourceAsStream("/images/icon.jpg"))[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:177:26: not found: type Image[0m
+[0m[[0m[31merror[0m] [0m[0m            icons += new Image(getClass.getResourceAsStream("/images/icon.jpg"))[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:189:26: not found: type FXMLLoader[0m
+[0m[[0m[31merror[0m] [0m[0m        val loader = new FXMLLoader(null, NoDependencyResolver)[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:189:43: not found: value NoDependencyResolver[0m
+[0m[[0m[31merror[0m] [0m[0m        val loader = new FXMLLoader(null, NoDependencyResolver)[0m
+[0m[[0m[31merror[0m] [0m[0m                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:192:55: not found: type GameVictoryDialogController[0m
+[0m[[0m[31merror[0m] [0m[0m        val gameVictoryControl = loader.getController[GameVictoryDialogController#Controller][0m
+[0m[[0m[31merror[0m] [0m[0m                                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:194:33: not found: type Stage[0m
+[0m[[0m[31merror[0m] [0m[0m        val gameWinDialog = new Stage() {[0m
+[0m[[0m[31merror[0m] [0m[0m                                ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:195:13: not found: value initModality[0m
+[0m[[0m[31merror[0m] [0m[0m            initModality(Modality.ApplicationModal)[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:195:26: not found: value Modality[0m
+[0m[[0m[31merror[0m] [0m[0m            initModality(Modality.ApplicationModal)[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:196:13: not found: value initOwner[0m
+[0m[[0m[31merror[0m] [0m[0m            initOwner(stage)[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:196:23: not found: value stage[0m
+[0m[[0m[31merror[0m] [0m[0m            initOwner(stage)[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:197:13: not found: value initStyle[0m
+[0m[[0m[31merror[0m] [0m[0m            initStyle(StageStyle.Undecorated)[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:197:23: not found: value StageStyle[0m
+[0m[[0m[31merror[0m] [0m[0m            initStyle(StageStyle.Undecorated)[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:198:13: not found: value title[0m
+[0m[[0m[31merror[0m] [0m[0m            title = "You Win"[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:199:13: not found: value scene[0m
+[0m[[0m[31merror[0m] [0m[0m            scene = new Scene {[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:204:13: not found: value resizable[0m
+[0m[[0m[31merror[0m] [0m[0m            resizable = false[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:205:13: not found: value icons[0m
+[0m[[0m[31merror[0m] [0m[0m            icons += new Image(getClass.getResourceAsStream("/images/icon.jpg"))[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:205:26: not found: type Image[0m
+[0m[[0m[31merror[0m] [0m[0m            icons += new Image(getClass.getResourceAsStream("/images/icon.jpg"))[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:218:26: not found: type FXMLLoader[0m
+[0m[[0m[31merror[0m] [0m[0m        val loader = new FXMLLoader(null, NoDependencyResolver)[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:218:43: not found: value NoDependencyResolver[0m
+[0m[[0m[31merror[0m] [0m[0m        val loader = new FXMLLoader(null, NoDependencyResolver)[0m
+[0m[[0m[31merror[0m] [0m[0m                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:221:55: not found: type GuideDialogController[0m
+[0m[[0m[31merror[0m] [0m[0m        val guideDialogControl = loader.getController[GuideDialogController#Controller][0m
+[0m[[0m[31merror[0m] [0m[0m                                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:223:31: not found: type Stage[0m
+[0m[[0m[31merror[0m] [0m[0m        val guideDialog = new Stage() {[0m
+[0m[[0m[31merror[0m] [0m[0m                              ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:224:13: not found: value initModality[0m
+[0m[[0m[31merror[0m] [0m[0m            initModality(Modality.ApplicationModal)[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:224:26: not found: value Modality[0m
+[0m[[0m[31merror[0m] [0m[0m            initModality(Modality.ApplicationModal)[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:225:13: not found: value initOwner[0m
+[0m[[0m[31merror[0m] [0m[0m            initOwner(stage)[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:225:23: not found: value stage[0m
+[0m[[0m[31merror[0m] [0m[0m            initOwner(stage)[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:226:13: not found: value title[0m
+[0m[[0m[31merror[0m] [0m[0m            title = "How to Play"[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:227:13: not found: value scene[0m
+[0m[[0m[31merror[0m] [0m[0m            scene = new Scene {[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:231:13: not found: value resizable[0m
+[0m[[0m[31merror[0m] [0m[0m            resizable = false[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:232:13: not found: value icons[0m
+[0m[[0m[31merror[0m] [0m[0m            icons += new Image(getClass.getResourceAsStream("/images/icon.jpg"))[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:232:26: not found: type Image[0m
+[0m[[0m[31merror[0m] [0m[0m            icons += new Image(getClass.getResourceAsStream("/images/icon.jpg"))[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:244:26: not found: type FXMLLoader[0m
+[0m[[0m[31merror[0m] [0m[0m        val loader = new FXMLLoader(null, NoDependencyResolver)[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:244:43: not found: value NoDependencyResolver[0m
+[0m[[0m[31merror[0m] [0m[0m        val loader = new FXMLLoader(null, NoDependencyResolver)[0m
+[0m[[0m[31merror[0m] [0m[0m                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:248:9: not found: value stage[0m
+[0m[[0m[31merror[0m] [0m[0m        stage.scene().cursor = Cursor.Default[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:256:26: not found: type FXMLLoader[0m
+[0m[[0m[31merror[0m] [0m[0m        val loader = new FXMLLoader(null, NoDependencyResolver)[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:256:43: not found: value NoDependencyResolver[0m
+[0m[[0m[31merror[0m] [0m[0m        val loader = new FXMLLoader(null, NoDependencyResolver)[0m
+[0m[[0m[31merror[0m] [0m[0m                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:259:54: not found: type QuitDialogController[0m
+[0m[[0m[31merror[0m] [0m[0m        val quitDialogControl = loader.getController[QuitDialogController#Controller][0m
+[0m[[0m[31merror[0m] [0m[0m                                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:261:30: not found: type Stage[0m
+[0m[[0m[31merror[0m] [0m[0m        val quitDialog = new Stage() {[0m
+[0m[[0m[31merror[0m] [0m[0m                             ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:262:13: not found: value initModality[0m
+[0m[[0m[31merror[0m] [0m[0m            initModality(Modality.ApplicationModal)[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:262:26: not found: value Modality[0m
+[0m[[0m[31merror[0m] [0m[0m            initModality(Modality.ApplicationModal)[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:263:13: not found: value initOwner[0m
+[0m[[0m[31merror[0m] [0m[0m            initOwner(stage)[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:263:23: not found: value stage[0m
+[0m[[0m[31merror[0m] [0m[0m            initOwner(stage)[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\NEW HP\Desktop\SpaceInvaders\src\main\scala\org\chinteckwai\spaceInvaders\MainApp.scala:264:13: not found: value title[0m
+[0m[[0m[31merror[0m] [0m[0m            title = "Quit the Game"[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0m100 errors found[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) Compilation failed[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 14 s, completed Aug 3, 2022 6:16:18 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

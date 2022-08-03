@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane onMouseClicked="#updateBullets" prefHeight="400.0" prefWidth="600.0" styleClass="background"  xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.chinteckwai.spaceInvaders.view.GameController">
+   <children>
+      <HBox layoutX="15.0" layoutY="15.0" spacing="10.0">
+         <children>
+            <Label styleClass="gameComponentLabel" text="Score: " textFill="#f2efef">
+               <font>
+                  <Font name="Eras Bold ITC" size="20.0" />
+               </font>
+            </Label>
+            <Text fx:id="scoreNumber" fill="#f6f3f3" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="gameComponentLabel" text="0">
+               <font>
+                  <Font name="Eras Bold ITC" size="20.0" />
+               </font>
+            </Text>
+         </children>
+      </HBox>
+      <ImageView fx:id="playerJet" fitHeight="64.0" fitWidth="117.0" focusTraversable="true" layoutX="257.0" layoutY="322.0" onKeyPressed="#handleKeyPressed" pickOnBounds="true" preserveRatio="true" />
+      <HBox layoutX="77.0" layoutY="98.0" spacing="10.0">
+         <children>
+            <ImageView fx:id="invader8" fitHeight="42.0" fitWidth="56.0" pickOnBounds="true" preserveRatio="true" styleClass="invader1" />
+            <ImageView fx:id="invader9" fitHeight="42.0" fitWidth="56.0" pickOnBounds="true" preserveRatio="true" styleClass="invader1" />
+            <ImageView fx:id="invader10" fitHeight="42.0" fitWidth="56.0" pickOnBounds="true" preserveRatio="true" styleClass="invader1" />
+            <ImageView fx:id="invader11" fitHeight="42.0" fitWidth="56.0" pickOnBounds="true" preserveRatio="true" styleClass="invader1" />
+            <ImageView fx:id="invader12" fitHeight="42.0" fitWidth="56.0" pickOnBounds="true" preserveRatio="true" styleClass="invader1" />
+            <ImageView fx:id="invader13" fitHeight="42.0" fitWidth="56.0" pickOnBounds="true" preserveRatio="true" styleClass="invader1" />
+            <ImageView fx:id="invader14" fitHeight="42.0" fitWidth="56.0" pickOnBounds="true" preserveRatio="true" styleClass="invader1" />
+         </children>
+      </HBox>
+      <HBox layoutX="74.0" layoutY="50.0" spacing="10.0" AnchorPane.leftAnchor="80.0" AnchorPane.rightAnchor="80.0">
+         <children>
+            <ImageView fx:id="invader1" fitHeight="42.0" fitWidth="56.0" pickOnBounds="true" preserveRatio="true" styleClass="invader2" />
+            <ImageView fx:id="invader2" fitHeight="42.0" fitWidth="56.0" pickOnBounds="true" preserveRatio="true" styleClass="invader2" />
+            <ImageView fx:id="invader3" fitHeight="42.0" fitWidth="56.0" pickOnBounds="true" preserveRatio="true" styleClass="invader2" />
+            <ImageView fx:id="invader4" fitHeight="42.0" fitWidth="56.0" pickOnBounds="true" preserveRatio="true" styleClass="invader2" />
+            <ImageView fx:id="invader5" fitHeight="42.0" fitWidth="56.0" pickOnBounds="true" preserveRatio="true" styleClass="invader2" />
+            <ImageView fx:id="invader6" fitHeight="42.0" fitWidth="56.0" pickOnBounds="true" preserveRatio="true" styleClass="invader2" />
+            <ImageView fx:id="invader7" fitHeight="42.0" fitWidth="56.0" pickOnBounds="true" preserveRatio="true" styleClass="invader2" />
+         </children>
+      </HBox>
+      <ImageView fx:id="invader15" fitHeight="42.0" fitWidth="56.0" layoutX="77.0" layoutY="147.0" pickOnBounds="true" preserveRatio="true" styleClass="invader3" />
+      <HBox layoutX="78.0" layoutY="200.0" spacing="13.0">
+         <children>
+            <ImageView fx:id="invader22" fitHeight="42.0" fitWidth="56.0" pickOnBounds="true" preserveRatio="true" styleClass="invader4" />
+            <ImageView fx:id="invader23" fitHeight="42.0" fitWidth="56.0" pickOnBounds="true" preserveRatio="true" styleClass="invader4" />
+            <ImageView fx:id="invader24" fitHeight="42.0" fitWidth="56.0" pickOnBounds="true" preserveRatio="true" styleClass="invader4" />
+            <ImageView fx:id="invader25" fitHeight="42.0" fitWidth="56.0" pickOnBounds="true" preserveRatio="true" styleClass="invader4" />
+            <ImageView fx:id="invader26" fitHeight="42.0" fitWidth="56.0" pickOnBounds="true" preserveRatio="true" styleClass="invader4" />
+            <ImageView fx:id="invader27" fitHeight="42.0" fitWidth="56.0" pickOnBounds="true" preserveRatio="true" styleClass="invader4" />
+            <ImageView fx:id="invader28" fitHeight="42.0" fitWidth="56.0" pickOnBounds="true" preserveRatio="true" styleClass="invader4" />
+         </children>
+      </HBox>
+      <ImageView fx:id="invader16" fitHeight="42.0" fitWidth="56.0" layoutX="150.0" layoutY="147.0" pickOnBounds="true" preserveRatio="true" styleClass="invader3" />
+      <ImageView fx:id="invader17" fitHeight="42.0" fitWidth="56.0" layoutX="213.0" layoutY="147.0" pickOnBounds="true" preserveRatio="true" styleClass="invader3" />
+      <ImageView fx:id="invader18" fitHeight="42.0" fitWidth="56.0" layoutX="278.0" layoutY="147.0" pickOnBounds="true" preserveRatio="true" styleClass="invader3" />
+      <ImageView fx:id="invader19" fitHeight="42.0" fitWidth="56.0" layoutX="350.0" layoutY="147.0" pickOnBounds="true" preserveRatio="true" styleClass="invader3" />
+      <ImageView fx:id="invader20" fitHeight="42.0" fitWidth="56.0" layoutX="418.0" layoutY="147.0" pickOnBounds="true" preserveRatio="true" styleClass="invader3" />
+      <ImageView fx:id="invader21" fitHeight="42.0" fitWidth="56.0" layoutX="474.0" layoutY="147.0" pickOnBounds="true" preserveRatio="true" styleClass="invader3" />
+      <HBox layoutX="422.0" layoutY="15.0" spacing="10.0">
+         <children>
+            <Text fill="#f6f3f3" strokeType="OUTSIDE" strokeWidth="0.0">
+               <font>
+                  <Font name="Eras Bold ITC" size="20.0" />
+               </font>
+            </Text>
+         </children>
+      </HBox>
+      <HBox layoutX="489.0" layoutY="15.0" spacing="10.0" />
+      <HBox layoutX="434.0" layoutY="14.845703125" spacing="15.0">
+         <children>
+            <Label styleClass="gameComponentLabel" text="Bullet Left:" textFill="#f2efef">
+               <font>
+                  <Font name="Eras Bold ITC" size="20.0" />
+               </font>
+            </Label>
+            <Text fx:id="bulletNumber" fill="#f6f3f3" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="gameComponentLabel" text="0">
+               <font>
+                  <Font name="Eras Bold ITC" size="20.0" />
+               </font>
+            </Text>
+         </children>
+      </HBox>
+      <HBox layoutX="208.0" layoutY="15.0" spacing="15.0">
+         <children>
+            <Label styleClass="gameComponentLabel" text="Invader Left:" textFill="#f2efef">
+               <font>
+                  <Font name="Eras Bold ITC" size="20.0" />
+               </font>
+            </Label>
+            <Text fx:id="invaderNumber" fill="#f6f3f3" strokeType="OUTSIDE" strokeWidth="0.0" styleClass="gameComponentLabel" text="0">
+               <font>
+                  <Font name="Eras Bold ITC" size="20.0" />
+               </font>
+            </Text>
+         </children>
+      </HBox>
+   </children>
+</AnchorPane>

@@ -1,0 +1,236 @@
+/* Background Image */
+.background {
+    -fx-background-image: url("../../../../images/background.jpg");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+}
+
+/* Game Title */
+.title {
+    -fx-font-family: "Britannic Bold";
+    -fx-font-size: 33px;
+    -fx-text-alignment: center;
+}
+
+/* Menu Button */
+.menuButton {
+    -fx-background-color: blue; 
+    -fx-border-radius: 15; 
+    -fx-border-color: yellow; 
+    -fx-background-radius: 15; 
+    -fx-border-width: 2;
+    -fx-text-fill: #e1ff00;
+    -fx-font-family: "Eras Bold ITC";
+    -fx-font-size: 12px;
+}
+
+.menuButton:hover {
+    -fx-background-color: #558ce6;
+}
+
+.menuButton:presses {
+    -fx-background-color: yellow;
+    -fx-text-fill: blue;
+}
+
+/* Dialog box */
+.dialogTitle {
+    -fx-font-family: "Eras Bold ITC";
+    -fx-font-size: 18px;
+    -fx-text-alignment: center;
+}
+
+.dialogContent {
+    -fx-font-family: "Eras Demi ITC";
+    -fx-font-size: 18px;
+    -fx-text-alignment: center;
+}
+
+.dialog-pane {
+    -fx-background-color: black;
+    -fx-border-color: yellow;
+    -fx-border-width: 2;
+}
+
+.dialog-pane: header .header-panel {
+    -fx-background-color: black;
+}
+
+.dialog-pane: header .header-panel .label {
+    -fx-text-fill: yellow;
+    -fx-font-family: "Eras Demi ITC";
+}
+
+.dialog-pane > .content.label {
+    -fx-padding: 0.5em 0.5em 0.5em 0.5em;
+    -fx-text-fill: white;
+    -fx-font-family: "Eras Demi ITC";
+    -fx-font-size: 15px;
+
+}
+
+.text-field {
+    -fx-background-color: black;
+    -fx-border-color: white;
+    -fx-border-width: 2;
+    -fx-text-fill: white;
+    -fx-alignment: center;
+    -fx-font-family: "Eras Demi ITC";
+    -fx-font-size: 12px;
+}
+
+.dialogButton {
+    -fx-background-color: black;
+    -fx-border-color: gray;
+    -fx-border-width: 2;
+    -fx-border-radius: 0;
+    -fx-text-fill: #f6f5f5;
+}
+
+.dialogButton:hover {
+    -fx-background-color: white;
+    -fx-border-color: white;
+    -fx-text-fill: black;
+}
+
+.dialogButton:presses {
+    -fx-background-color: white;
+    -fx-border-color: white;
+    -fx-text-fill: black;
+}
+
+/* Game Component Label */
+.gameComponentLabel {
+    -fx-font-family: "Eras Bold ITC";
+    -fx-font-size: 20px;
+}
+
+.guideContent {
+    -fx-font-family: "Eras Bold ITC";
+    -fx-font-size: 12px;
+    -fx-text-alignment: center;
+    -fx-text-fill: white;
+}
+
+.gameEndTitle {
+    -fx-font-family: "Eras Bold ITC";
+    -fx-font-size: 25px;
+    -fx-text-alignment: center;
+}
+
+/* Highscore Page */
+.table-view {
+    -fx-background-color: transparent;
+    -fx-table-cell-border-color: transparent;
+    -fx-table-header-border-color: transparent;
+    -fx-padding: 5;
+}
+
+.table-view .column-header-background {
+    -fx-background-color: none;
+
+}
+
+.table-view .column-header {
+    -fx-background-color: transparent;
+}
+
+.table-view .column-header .label {
+    -fx-font-size: 18px;
+    -fx-font-family: "Eras Bold ITC";
+    -fx-text-fill: white;
+    -fx-alignment: center;
+    -fx-opacity: 1;
+}
+
+.table-cell {
+    -fx-background-color: transparent;
+    -fx-font-size: 18px;
+    -fx-font-family: "Eras Bold ITC";
+    -fx-text-fill: white;
+    -fx-alignment: center;
+    -fx-padding: 8px;
+}
+
+.table-row-cell{
+    -fx-background-color: transparent;
+
+}
+
+.table-row-cell:odd .table-cell {
+    -fx-text-fill: #4fed5a;
+}
+
+.table-row-cell:even .table-cell {
+    -fx-text-fill: #e2f41a;
+}
+
+/* Menu Bar */
+.menu-bar {
+    -fx-background-color: black;
+}
+
+.context-menu {
+    -fx-background-color: black;
+}
+
+.menu-bar .label {
+    -fx-font-size: 14px;
+    -fx-font-family: "Eras Bold ITC";
+    -fx-text-fill: yellow;
+    -fx-opacity: 0.9;
+}
+
+/* Images and Sprites used in Game */
+.invader1 {
+    -fx-image: url("../../../../images/invader1.png");
+  }
+  
+  .invader2 {
+      -fx-image: url("../../../../images/invader2.png");
+  }
+  
+  .invader3 {
+      -fx-image: url("../../../../images/invader3.png");
+  }
+  
+  .invader4 {
+      -fx-image: url("../../../../images/invader4.png");
+  }
+  
+  .jet1 {
+      -fx-image: url("../../../../images/jet1.png");
+  }
+  
+  .jet2 {
+      -fx-image: url("../../../../images/jet2.png");
+  }
+  
+  .jet3 {
+      -fx-image: url("../../../../images/jet3.png");
+  }
+  
+  .menuBullet {
+      -fx-image: url("../../../../images/bullet.png");
+  }
+  
+  .firstPlace {
+      -fx-image: url("../../../../images/1st.png");
+  }
+  
+  .secondPlace {
+      -fx-image: url("../../../../images/2nd.png");
+  }
+  
+  .thirdPlace {
+      -fx-image: url("../../../../images/3rd.png");
+  }
+  
+  .star {
+      -fx-image: url("../../../../images/star.png");
+  }
+  
+  .gamedemo {
+      -fx-image: url("../../../../images/gameDemo.PNG")
+  }
+

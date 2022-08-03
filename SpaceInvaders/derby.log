@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Aug 03 18:21:48 SGT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0182-6339-a232-00000982d468 
+on database directory C:\Users\NEW HP\Desktop\SpaceInvaders\myDB with class loader sun.misc.Launcher$AppClassLoader@4e25154f 
+Loaded from file:/C:/Users/NEW%20HP/Desktop/SpaceInvaders/target/bg-jobs/sbt_7887f11/target/2552dd78/d4f190b2/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_281-b09
+user.dir=C:\Users\NEW HP\Desktop\SpaceInvaders
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

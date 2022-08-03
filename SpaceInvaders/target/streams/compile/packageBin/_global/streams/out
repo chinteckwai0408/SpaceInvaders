@@ -1,0 +1,179 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\scalafx_2.12-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	images[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\images[0m
+[0m[[0m[0mdebug[0m] [0m[0m	images\1st.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\images\1st.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	images\2nd.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\images\2nd.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	images\3rd.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\images\3rd.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	images\background.jpg[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\images\background.jpg[0m
+[0m[[0m[0mdebug[0m] [0m[0m	images\bullet.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\images\bullet.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	images\gameDemo.PNG[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\images\gameDemo.PNG[0m
+[0m[[0m[0mdebug[0m] [0m[0m	images\icon.jpg[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\images\icon.jpg[0m
+[0m[[0m[0mdebug[0m] [0m[0m	images\invader1.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\images\invader1.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	images\invader2.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\images\invader2.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	images\invader3.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\images\invader3.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	images\invader4.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\images\invader4.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	images\jet1.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\images\jet1.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	images\jet2.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\images\jet2.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	images\jet3.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\images\jet3.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	images\scopeCursor.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\images\scopeCursor.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	images\star.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\images\star.png[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\MainApp$$anon$1$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\MainApp$$anon$1$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\MainApp$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\MainApp$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\MainApp$$anon$11$$anon$12.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\MainApp$$anon$11$$anon$12.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\MainApp$$anon$11.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\MainApp$$anon$11.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\MainApp$$anon$3$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\MainApp$$anon$3$$anon$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\MainApp$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\MainApp$$anon$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\MainApp$$anon$5$$anon$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\MainApp$$anon$5$$anon$6.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\MainApp$$anon$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\MainApp$$anon$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\MainApp$$anon$7$$anon$8.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\MainApp$$anon$7$$anon$8.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\MainApp$$anon$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\MainApp$$anon$7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\MainApp$$anon$9$$anon$10.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\MainApp$$anon$9$$anon$10.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\MainApp$$anon$9.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\MainApp$$anon$9.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\MainApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\MainApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\MainApp$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\MainApp$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\MainApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\MainApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\model[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\model[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\model\Captain$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\model\Captain$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\model\Captain.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\model\Captain.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\model\Commander$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\model\Commander$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\model\Commander.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\model\Commander.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\model\Invader.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\model\Invader.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\model\Lieutenant$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\model\Lieutenant$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\model\Lieutenant.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\model\Lieutenant.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\model\Player$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\model\Player$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\model\Player.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\model\Player.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\model\Trooper$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\model\Trooper$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\model\Trooper.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\model\Trooper.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\util[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\util[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\util\Database$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\util\Database$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\util\Database.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\util\Database.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\view[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\view[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\view\GameController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\view\GameController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\view\GameController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\view\GameController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\view\GameDialogController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\view\GameDialogController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\view\GameDialogController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\view\GameDialogController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\view\GameDialogController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\view\GameDialogController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\view\GameIntroDialog.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\view\GameIntroDialog.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\view\GameOverDialog.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\view\GameOverDialog.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\view\GameOverDialogController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\view\GameOverDialogController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\view\GameOverDialogController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\view\GameOverDialogController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\view\GamePage.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\view\GamePage.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\view\GameVictoryDialog.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\view\GameVictoryDialog.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\view\GameVictoryDialogController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\view\GameVictoryDialogController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\view\GameVictoryDialogController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\view\GameVictoryDialogController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\view\GuideDialog.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\view\GuideDialog.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\view\GuideDialogController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\view\GuideDialogController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\view\GuideDialogController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\view\GuideDialogController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\view\HighScoresController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\view\HighScoresController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\view\HighScoresController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\view\HighScoresController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\view\HighScoresPage.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\view\HighScoresPage.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\view\MenuController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\view\MenuController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\view\MenuController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\view\MenuController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\view\MenuPage.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\view\MenuPage.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\view\QuitDialog.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\view\QuitDialog.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\view\QuitDialogController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\view\QuitDialogController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\view\QuitDialogController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\view\QuitDialogController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\view\RootLayout.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\view\RootLayout.fxml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\view\RootLayoutController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\view\RootLayoutController$Controller$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\view\RootLayoutController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\view\RootLayoutController$Controller.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\view\RootLayoutController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\view\RootLayoutController.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org\chinteckwai\spaceInvaders\view\Theme.css[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\org\chinteckwai\spaceInvaders\view\Theme.css[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sound[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\sound[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sound\backgroundmusic.mp3[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\sound\backgroundmusic.mp3[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sound\click.mp3[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\sound\click.mp3[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sound\gameOver.mp3[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\sound\gameOver.mp3[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sound\score100.mp3[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\sound\score100.mp3[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sound\shoot.mp3[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\sound\shoot.mp3[0m
+[0m[[0m[0mdebug[0m] [0m[0m	sound\victory.mp3[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\NEW HP\Desktop\SpaceInvaders\target\scala-2.12\classes\sound\victory.mp3[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
